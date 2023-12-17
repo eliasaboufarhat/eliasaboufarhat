@@ -46,7 +46,7 @@ Here are some of the technologies and tools I frequently work with:
 
 Feel free to reach out to me through the following channels:
 
-- GitHub: [github.com/elioaboufarhat](https://github.com/elioaboufarhat/)
+- GitHub: [github.com/eliasaboufarhat](https://github.com/eliasaboufarhat/)
 - LinkedIn: [linkedin.com/in/eliasaboufarhat](https://www.linkedin.com/in/elias-abou-farhat-81a884199/)
 
 Looking forward to connecting with fellow data enthusiasts, developers, and AI aficionados! Let's learn and grow together! 🚀
